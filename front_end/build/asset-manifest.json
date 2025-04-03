@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe51f0cb.css",
+    "main.js": "/static/js/main.b51d0d3e.js",
+    "static/media/roboto-bold.ttf": "/static/media/roboto-bold.63311334b795ce3b76e2.ttf",
+    "static/media/roboto-regular.ttf": "/static/media/roboto-regular.f25bd05915c1a3468d3d.ttf",
+    "static/media/merriweather-bold.ttf": "/static/media/merriweather-bold.ae39f743fdcf8f64531e.ttf",
+    "static/media/ArchivoBlack-Regular.ttf": "/static/media/ArchivoBlack-Regular.e35d38651492de9e7226.ttf",
+    "static/media/jersey-m54.ttf": "/static/media/jersey-m54.b9b9f8b7b36075c930f8.ttf",
+    "index.html": "/index.html",
+    "main.fe51f0cb.css.map": "/static/css/main.fe51f0cb.css.map",
+    "main.b51d0d3e.js.map": "/static/js/main.b51d0d3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe51f0cb.css",
+    "static/js/main.b51d0d3e.js"
+  ]
+}
