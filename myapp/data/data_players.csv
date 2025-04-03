@@ -1,0 +1,382 @@
+Nombre,Posicion,Numero,Equipo,Prediccion,Color,Probabilidad,Alinear,Rojo,Naranja,Verde,Azul
+Orri Steinn Óskarsson,FW,9,Real Sociedad,-2.0,Naranja,74.13,No,18.53,74.13,4.12,3.22
+Sergio Gómez,LM,17,Real Sociedad,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Takefusa Kubo,RM,14,Real Sociedad,-5.5,Rojo,57.11,No,57.11,38.08,2.66,2.16
+Olasagasti,CM,16,Real Sociedad,-1.0,Naranja,76.67,No,15.33,76.67,4.51,3.49
+Mikel Oyarzabal,CM,10,Real Sociedad,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Pablo Marín,CM,28,Real Sociedad,1.375,Naranja,79.69,Sí,10.8,79.69,5.45,4.06
+Sheraldo Becker,RM,11,Real Sociedad,-0.75,Naranja,77.15,No,14.7,77.15,4.61,3.55
+Ander Barrenetxea,LM,7,Real Sociedad,-3.0,Naranja,70.05,No,23.35,70.05,3.69,2.92
+Beñat Turrientes,DM,22,Real Sociedad,0.125,Naranja,78.48,Sí,12.81,78.48,4.94,3.76
+Martín Zubimendi,DM,4,Real Sociedad,-1.0,Naranja,76.67,No,15.33,76.67,4.51,3.49
+Javi López,LB,12,Real Sociedad,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Nayef Aguerd,CB,21,Real Sociedad,-0.875,Naranja,76.92,No,15.01,76.92,4.56,3.52
+Igor Zubeldia,CB,5,Real Sociedad,17.375,Verde,61.92,Sí,2.65,18.35,61.92,17.08
+Jon Aramburu,RB,19,Real Sociedad,4.625,Naranja,80.44,Sí,7.57,80.44,7.07,4.91
+Hamari Traoré,RB,18,Real Sociedad,-4.5,Naranja,56.99,No,37.99,56.99,2.78,2.23
+Isaac Romero,FW,7,Sevilla,-0.25,Naranja,77.97,No,13.56,77.97,4.8,3.67
+Albert Sambi Lokonga,AM,12,Sevilla,-5.125,Rojo,50.65,No,50.65,45.02,2.4,1.94
+Chidera Ejuke,LW,21,Sevilla,16.75,Verde,60.87,Sí,2.68,22.13,60.87,14.32
+Juanlu Sánchez,RW,26,Sevilla,-4.25,Naranja,60.23,No,34.41,60.23,2.97,2.39
+Dodi Lukebakio,RW,11,Sevilla,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Stanis Idumbo,FW,27,Sevilla,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Saúl Ñíguez,AM,17,Sevilla,6.0,Naranja,80.0,Sí,6.67,80.0,8.0,5.33
+Peque,LW,14,Sevilla,-6.875,Rojo,70.06,No,70.06,24.37,3.06,2.51
+Djibril Sow,DM,20,Sevilla,16.09375,Verde,57.91,Sí,2.62,27.66,57.91,11.8
+Lucien Agoume,DM,18,Sevilla,16.15625,Verde,58.3,Sí,2.63,27.04,58.3,12.04
+Adrià Pedrosa,LB,3,Sevilla,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Kike Salas,CB,4,Sevilla,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Loïc Bade,CB,22,Sevilla,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Carmona,RB,2,Sevilla,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Ørjan Nyland,GK,13,Sevilla,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Roberto Férnandez,FW,2,Espanyol,-2.125,Naranja,73.72,No,19.02,73.72,4.07,3.19
+Alejo Véliz,FW,9,Espanyol,-5.875,Rojo,61.87,No,61.87,33.0,2.83,2.3
+Javi Puado,AM,7,Espanyol,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Antoniu,LM,31,Espanyol,-7.5,Rojo,73.35,No,73.35,20.96,3.12,2.57
+Alex Král,AM,20,Espanyol,-0.5,Naranja,77.58,No,14.11,77.58,4.7,3.61
+Urko González,LM,19,Espanyol,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Edu Expósito,CM,8,Espanyol,-6.375,Rojo,66.57,No,66.57,28.03,2.98,2.43
+Pol Lozano,CM,10,Espanyol,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+Fernando Calero,CB,5,Espanyol,-5.25,Rojo,53.05,No,53.05,42.44,2.5,2.02
+Jofre,RM,17,Espanyol,16.46875,Verde,59.87,Sí,2.66,24.25,59.87,13.21
+Álvaro Tejero,RM,12,Espanyol,-3.75,Naranja,65.13,No,28.94,65.13,3.3,2.63
+Carlos Romero,LB,22,Espanyol,1.625,Naranja,79.85,Sí,10.47,79.85,5.55,4.12
+Leandro Cabrera,CB,6,Espanyol,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Marash Kumbulla,CB,4,Espanyol,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Omar El Hilali,RB,23,Espanyol,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Joan García,GK,1,Espanyol,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Bojan Miovski,FW,19,Girona,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Cristhian Stuani,FW,7,Girona,-3.375,Naranja,67.86,No,25.85,67.86,3.5,2.78
+Bryan Gil,LW,20,Girona,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Arnaut Danjuma,WB,11,Girona,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Viktor Tsyhankov,RW,8,Girona,16.78125,Verde,60.96,Sí,2.68,21.92,60.96,14.45
+Yangel Herrera,LM,21,Girona,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Arthur Melo,CM,12,Girona,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+Portu,CM,24,Girona,-4.25,Naranja,60.23,No,34.41,60.23,2.97,2.39
+Iván Martín,RM,23,Girona,18.25,Verde,60.97,Sí,2.51,14.35,60.97,22.17
+Miguel Gutiérrez,LB,3,Girona,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Juanpe,CB,15,Girona,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Ladislav Krejčí,CB,18,Girona,16.875,Verde,61.2,Sí,2.68,21.29,61.2,14.84
+Daley Blind,CB,17,Girona,17.09375,Verde,61.63,Sí,2.67,19.92,61.63,15.78
+Arnau Martinez,RB,4,Girona,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Donny van de Beek,AM,6,Girona,-7.75,Rojo,74.43,No,74.43,19.85,3.13,2.59
+Paulo Gazzaniga,GK,13,Girona,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Marcos André,FW,9,Valladolid,-2.75,Naranja,71.27,No,21.93,71.27,3.8,3.0
+Mamadou Sylla,AM,7,Valladolid,-6.5,Rojo,67.53,No,67.53,27.01,3.0,2.46
+Raúl Moro,LW,11,Valladolid,4.75,Naranja,80.42,Sí,7.48,80.42,7.15,4.95
+Anuar,RW,23,Valladolid,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Iván Sánchez,RW,10,Valladolid,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Selim Amallah,AM,21,Valladolid,-2.5,Naranja,72.34,No,20.67,72.34,3.91,3.08
+Juanmi Latasa,FW,14,Valladolid,-2.125,Naranja,73.72,No,19.02,73.72,4.07,3.19
+Tamás Nikitscher,DM,4,Valladolid,0.375,Naranja,78.78,Sí,12.36,78.78,5.04,3.82
+Mario Martín,DM,12,Valladolid,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Florian Grillitsch,DM,8,Valladolid,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+Adam Aznou,LB,39,Valladolid,-4.125,Naranja,61.62,No,32.86,61.62,3.06,2.45
+Javi Sánchez,CB,5,Valladolid,0.0,Naranja,78.32,Sí,13.05,78.32,4.9,3.73
+Eray Cömert,CB,15,Valladolid,16.71875,Verde,60.78,Sí,2.68,22.35,60.78,14.2
+Antonio Candela,RB,22,Valladolid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Luis Pérez,RB,2,Valladolid,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+Karl Jakob Hein,GK,13,Valladolid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Oliver McBurnie,FW,16,Las Palmas,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Juan Herzog,CB,28,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Alberto Moleiro,LW,10,Las Palmas,-2.75,Naranja,71.27,No,21.93,71.27,3.8,3.0
+Fábio Silva,FW,37,Las Palmas,12.75,Naranja,67.47,Sí,3.6,67.47,20.76,8.18
+Sandro Ramírez,CM,19,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Jaime Mata,CM,17,Las Palmas,-5.625,Rojo,58.85,No,58.85,36.22,2.72,2.21
+Javier Muñoz,LB,5,Las Palmas,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+José Campaña,CM,8,Las Palmas,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Benito Ramírez,LB,11,Las Palmas,-6.125,Rojo,64.41,No,64.41,30.31,2.91,2.37
+Dario Essugo,CM,29,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Álex Muñoz,CB,23,Las Palmas,0.125,Naranja,78.48,Sí,12.81,78.48,4.94,3.76
+Scott McKenna,CB,15,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Mika Màrmol,CB,3,Las Palmas,-0.75,Naranja,77.15,No,14.7,77.15,4.61,3.55
+Stefan Bajcetic,CB,21,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Viti,RB,18,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Jasper Cillessen,GK,1,Las Palmas,1.5,Naranja,79.77,Sí,10.64,79.77,5.5,4.09
+Dani Rodríguez,FW,14,Mallorca,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Abdón Prats,FW,9,Mallorca,-6.5,Rojo,67.53,No,67.53,27.01,3.0,2.46
+Vedat Muriqi,FW,7,Mallorca,-1.125,Naranja,76.41,No,15.67,76.41,4.46,3.45
+Roberto Navarro,LM,27,Mallorca,-1.75,Naranja,74.87,No,17.62,74.87,4.22,3.29
+Manu Morlanes,CM,8,Mallorca,-3.5,Naranja,67.02,No,26.81,67.02,3.44,2.74
+Sergi Darder,CM,10,Mallorca,0.0,Naranja,78.32,Sí,13.05,78.32,4.9,3.73
+Omar Mascarell,CM,5,Mallorca,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Cyle Larin,FW,17,Mallorca,-6.75,Rojo,69.27,No,69.27,25.19,3.04,2.5
+Takuma Asano,RM,11,Mallorca,-2.625,Naranja,71.82,No,21.28,71.82,3.86,3.04
+Samu Costa,CM,12,Mallorca,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Toni Lato,LB,3,Mallorca,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Antonio Raillo,CB,21,Mallorca,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Martin Valjent,CB,24,Mallorca,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Pablo Maffeo,RB,23,Mallorca,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Dominik Greif,GK,1,Mallorca,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Kiké,FW,17,Alavés,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Toni Martínez,FW,11,Alavés,-4.75,Naranja,52.99,No,42.39,52.99,2.55,2.06
+Carlos Martín,FW,15,Alavés,-2.0,Naranja,74.13,No,18.53,74.13,4.12,3.22
+Carles Aleñá,LM,21,Alavés,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+Antonio Blanco,CM,8,Alavés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Joan Jordán,CM,24,Alavés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Ander Guevara,CM,6,Alavés,-6.25,Rojo,65.53,No,65.53,29.12,2.95,2.4
+Carlos Vicente,RM,7,Alavés,-5.25,Rojo,53.05,No,53.05,42.44,2.5,2.02
+Facundo Garcés,CB,2,Alavés,-3.0,Naranja,70.05,No,23.35,70.05,3.69,2.92
+Manu Sánchez,LB,3,Alavés,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Moussa Diarra,WB,22,Alavés,-5.5,Rojo,57.11,No,57.11,38.08,2.66,2.16
+Santiago Mouriño,CB,12,Alavés,1.625,Naranja,79.85,Sí,10.47,79.85,5.55,4.12
+Abdel Abqar,CB,5,Alavés,1.625,Naranja,79.85,Sí,10.47,79.85,5.55,4.12
+Nahuel Tenaglia,RB,14,Alavés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Antonio Sivera,GK,1,Alavés,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Vinicius Júnior,FW,7,Real Madrid,18.09375,Verde,61.35,Sí,2.55,14.99,61.35,21.11
+Kylian Mbappé,FW,9,Real Madrid,17.09375,Verde,61.63,Sí,2.67,19.92,61.63,15.78
+Eduardo Camavinga,LM,6,Real Madrid,-3.875,Naranja,64.06,No,30.14,64.06,3.22,2.58
+Jude Bellingham,LM,5,Real Madrid,16.53125,Verde,60.12,Sí,2.67,23.75,60.12,13.45
+Brahim Díaz,FW,21,Real Madrid,-6.25,Rojo,65.53,No,65.53,29.12,2.95,2.4
+Luka Modrić,CM,10,Real Madrid,17.25,Verde,61.83,Sí,2.66,19.02,61.83,16.49
+Aurélien Tchouaméni,CM,14,Real Madrid,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Rodrygo,RM,11,Real Madrid,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Federico Valverde,RM,8,Real Madrid,-2.5,Naranja,72.34,No,20.67,72.34,3.91,3.08
+Fran Garcia,LB,20,Real Madrid,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+David Alaba,CB,4,Real Madrid,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Raúl Asencio,CB,35,Real Madrid,1.625,Naranja,79.85,Sí,10.47,79.85,5.55,4.12
+Lucas Vázquez,RB,17,Real Madrid,11.25,Naranja,72.94,Sí,4.23,72.94,15.35,7.48
+Álvaro García,FW,18,Rayo Vallecano,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Pep Chavarría,LW,3,Rayo Vallecano,16.09375,Verde,57.91,Sí,2.62,27.66,57.91,11.8
+Adri Embarba,RW,21,Rayo Vallecano,5.75,Naranja,80.11,Sí,6.82,80.11,7.82,5.25
+Óscar Valentín,DM,23,Rayo Vallecano,-1.5,Naranja,75.54,No,16.79,75.54,4.32,3.36
+Pedro Díaz,AM,4,Rayo Vallecano,16.875,Verde,61.2,Sí,2.68,21.29,61.2,14.84
+Iván Balliu,RW,20,Rayo Vallecano,-3.125,Naranja,69.37,No,24.13,69.37,3.63,2.88
+Gerard Gumbau,DM,15,Rayo Vallecano,-2.625,Naranja,71.82,No,21.28,71.82,3.86,3.04
+Óscar Trejo,AM,8,Rayo Vallecano,-2.125,Naranja,73.72,No,19.02,73.72,4.07,3.19
+Pathé Ciss,DM,6,Rayo Vallecano,16.875,Verde,61.2,Sí,2.68,21.29,61.2,14.84
+Unai López,DM,17,Rayo Vallecano,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Alfonso Espino,LB,22,Rayo Vallecano,16.875,Verde,61.2,Sí,2.68,21.29,61.2,14.84
+Sergi Guardiola,FW,12,Rayo Vallecano,-6.25,Rojo,65.53,No,65.53,29.12,2.95,2.4
+Aridane Hernández,CB,5,Rayo Vallecano,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Florian Lejeune,CB,24,Rayo Vallecano,17.125,Verde,61.68,Sí,2.67,19.74,61.68,15.92
+Andrei Ratiu,RB,2,Rayo Vallecano,17.71875,Verde,61.89,Sí,2.61,16.64,61.89,18.86
+Augusto Batalla,GK,13,Rayo Vallecano,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Antonio Sánchez,RW,18,Mallorca,-3.625,Naranja,66.11,No,27.84,66.11,3.37,2.68
+Valery Fernández,RW,16,Mallorca,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Johan Mojica,LB,22,Mallorca,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Walid Cheddira,FW,16,Espanyol,-6.625,Rojo,68.43,No,68.43,26.07,3.02,2.48
+Álvaro Aguado,CM,18,Espanyol,4.5,Naranja,80.46,Sí,7.66,80.46,7.0,4.88
+Pere Milla,CB,11,Espanyol,-4.125,Naranja,61.62,No,32.86,61.62,3.06,2.45
+Alexander Sørloth,FW,9,Atlético Madrid,-3.25,Naranja,68.64,No,24.96,68.64,3.57,2.83
+Julián Álvarez,FW,19,Atlético Madrid,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Antoine Griezmann,FW,7,Atlético Madrid,-1.875,Naranja,74.51,No,18.06,74.51,4.17,3.26
+Ángel Correa,RM,10,Atlético Madrid,-3.5,Naranja,67.02,No,26.81,67.02,3.44,2.74
+Samuel Lino,LM,12,Atlético Madrid,-3.25,Naranja,68.64,No,24.96,68.64,3.57,2.83
+Conor Gallagher,LM,4,Atlético Madrid,-5.75,Rojo,60.43,No,60.43,34.53,2.78,2.26
+Pablo Barrios,CM,8,Atlético Madrid,-2.125,Naranja,73.72,No,19.02,73.72,4.07,3.19
+José María Giménez,CB,2,Atlético Madrid,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+Rodrigo De Paul,CM,5,Atlético Madrid,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Giuliano Simeone,RM,22,Atlético Madrid,-1.0,Naranja,76.67,No,15.33,76.67,4.51,3.49
+Marcos Llorente,CM,14,Atlético Madrid,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Javi Galán,LB,21,Atlético Madrid,16.96875,Verde,61.41,Sí,2.67,20.68,61.41,15.23
+Clément Lenglet,CB,15,Atlético Madrid,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Robin Le Normand,CB,24,Atlético Madrid,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+Nahuel Molina,RB,16,Atlético Madrid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Jan Oblak,GK,13,Atlético Madrid,-0.375,Naranja,77.78,No,13.83,77.78,4.75,3.64
+Álex Berenguer,FW,7,Athletic Club,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+Maroan Sannadi,FW,21,Athletic Club,-5.5,Rojo,57.11,No,57.11,38.08,2.66,2.16
+Nico Williams,LW,10,Athletic Club,17.09375,Verde,61.63,Sí,2.67,19.92,61.63,15.78
+Iñaki Williams,RW,9,Athletic Club,-2.125,Naranja,73.72,No,19.02,73.72,4.07,3.19
+Unai Gómez,AM,20,Athletic Club,-5.875,Rojo,61.87,No,61.87,33.0,2.83,2.3
+Gorka Guruzeta,AM,12,Athletic Club,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Mikel Jauregizar,DM,23,Athletic Club,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Mikel Vesga,DM,6,Athletic Club,-3.625,Naranja,66.11,No,27.84,66.11,3.37,2.68
+Iñigo Ruiz de Galarreta,DM,16,Athletic Club,-1.125,Naranja,76.41,No,15.67,76.41,4.46,3.45
+Beñat Prados,DM,24,Athletic Club,16.40625,Verde,59.6,Sí,2.66,24.77,59.6,12.97
+Yuri Berchiche,LB,17,Athletic Club,16.21875,Verde,58.66,Sí,2.64,26.44,58.66,12.27
+Yeray Álvarez,CB,5,Athletic Club,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Daniel Vivian,CB,3,Athletic Club,16.75,Verde,60.87,Sí,2.68,22.13,60.87,14.32
+Andoni Gorosabel,RB,2,Athletic Club,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Óscar de Marcos,RB,18,Athletic Club,-3.0,Naranja,70.05,No,23.35,70.05,3.69,2.92
+Unai Simón,GK,1,Athletic Club,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Asier Villalibre,FW,9,Alavés,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Pau Cabanes,RM,19,Alavés,-1.375,Naranja,75.85,No,16.4,75.85,4.37,3.39
+Adrian Rodriguez,GK,31,Alavés,-1.75,Naranja,74.87,No,17.62,74.87,4.22,3.29
+Ayoze Pérez,FW,22,Villarreal,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Nicolas Pépé,FW,19,Villarreal,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Alex Baena,LM,16,Villarreal,17.0,Verde,61.47,Sí,2.67,20.49,61.47,15.37
+Denis Suárez,LM,6,Villarreal,-4.75,Naranja,52.99,No,42.39,52.99,2.55,2.06
+Daniel Parejo,CM,10,Villarreal,17.28125,Verde,61.86,Sí,2.66,18.85,61.86,16.63
+Pape Gueye,CM,18,Villarreal,-0.75,Naranja,77.15,No,14.7,77.15,4.61,3.55
+Thierno Barry,FW,15,Villarreal,-6.875,Rojo,70.06,No,70.06,24.37,3.06,2.51
+Yeremi Pino,RM,21,Villarreal,-0.375,Naranja,77.78,No,13.83,77.78,4.75,3.64
+Santi Comesaña,CM,14,Villarreal,-3.0,Naranja,70.05,No,23.35,70.05,3.69,2.92
+Sergi Cardona,LB,23,Villarreal,1.375,Naranja,79.69,Sí,10.8,79.69,5.45,4.06
+Alfonso Pedraza,LB,24,Villarreal,-1.25,Naranja,76.14,No,16.03,76.14,4.41,3.42
+Logan Costa,CB,2,Villarreal,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Willy Kambwala,CB,5,Villarreal,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Tajon Buchanan,RM,9,Villarreal,-7.625,Rojo,73.9,No,73.9,20.39,3.13,2.58
+Juan Foyth,RB,8,Villarreal,17.375,Verde,61.92,Sí,2.65,18.35,61.92,17.08
+Diego Conde,GK,13,Villarreal,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Álvaro Rodríguez,FW,18,Getafe,-5.5,Rojo,57.11,No,57.11,38.08,2.66,2.16
+Borja Mayoral,FW,9,Getafe,-5.75,Rojo,60.43,No,60.43,34.53,2.78,2.26
+Coba da Costa,LM,29,Getafe,-1.25,Naranja,76.14,No,16.03,76.14,4.41,3.42
+Juan Bernat,LM,14,Getafe,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Mauro Arambarri,CM,8,Getafe,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Chrisantus Uche,CM,6,Getafe,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Ramón Terrats,RM,11,Getafe,0.5,Naranja,78.92,Sí,12.14,78.92,5.09,3.85
+Luis Milla,DM,5,Getafe,13.25,Naranja,64.74,Sí,3.36,64.74,23.54,8.35
+Juanmi,FW,24,Getafe,-7.125,Rojo,71.49,No,71.49,22.88,3.09,2.54
+Diego Rico,LB,16,Getafe,16.15625,Verde,58.3,Sí,2.63,27.04,58.3,12.04
+Omar Alderete,CB,15,Getafe,0.125,Naranja,78.48,Sí,12.81,78.48,4.94,3.76
+Domingos Duarte,CB,22,Getafe,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Djené,RB,2,Getafe,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+David Soria,GK,13,Getafe,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Thomas Lemar,LM,11,Atlético Madrid,-4.5,Naranja,56.99,No,37.99,56.99,2.78,2.23
+Umar Sadiq,FW,12,Valencia,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Diego López,LW,16,Valencia,0.5,Naranja,78.92,Sí,12.14,78.92,5.09,3.85
+Francisco Perez,RW,23,Valencia,-6.25,Rojo,65.53,No,65.53,29.12,2.95,2.4
+Luis Rioja,RW,22,Valencia,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Sergi Canós,LW,7,Valencia,-5.625,Rojo,58.85,No,58.85,36.22,2.72,2.21
+Domingos André Ribeiro Almeida,AM,10,Valencia,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Ivan Jaime Pajuelo,AM,17,Valencia,-2.875,Naranja,70.68,No,22.62,70.68,3.74,2.96
+Enzo Barrenechea,DM,5,Valencia,18.125,Verde,61.29,Sí,2.54,14.86,61.29,21.32
+Mouctar Diakhaby,DM,4,Valencia,-5.875,Rojo,61.87,No,61.87,33.0,2.83,2.3
+Javier Guerra,DM,8,Valencia,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+José Luis García Vayá,DM,18,Valencia,-3.5,Naranja,67.02,No,26.81,67.02,3.44,2.74
+José Luis Gayà,LB,14,Valencia,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Cristhian Mosquera,CB,3,Valencia,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+César Tárrega,CB,15,Valencia,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Dimitri Foulquier,RB,20,Valencia,17.25,Verde,61.83,Sí,2.66,19.02,61.83,16.49
+Giorgi Mamardashvili,GK,25,Valencia,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Chuky san jose,DM,28,Valladolid,-3.375,Naranja,67.86,No,25.85,67.86,3.5,2.78
+Darwin Machís,RW,18,Valladolid,-3.625,Naranja,66.11,No,27.84,66.11,3.37,2.68
+David Torres,CB,3,Valladolid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Cenk Özkacar,CB,6,Valladolid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Adrian Baquerin,FW,29,Valladolid,-7.125,Rojo,71.49,No,71.49,22.88,3.09,2.54
+Borja Iglesias,FW,7,Celta Vigo,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Pablo Durán,FW,18,Celta Vigo,-7.375,Rojo,72.76,No,72.76,21.56,3.11,2.56
+Alfon,LW,12,Celta Vigo,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Iker Losada,LW,14,Celta Vigo,-5.25,Rojo,53.05,No,53.05,42.44,2.5,2.02
+Iago Aspas,RW,10,Celta Vigo,0.125,Naranja,78.48,Sí,12.81,78.48,4.94,3.76
+Fer López,RW,28,Celta Vigo,-4.375,Naranja,58.69,No,36.12,58.69,2.88,2.31
+Óscar Mingueza,LM,3,Celta Vigo,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Jailson Siqueira,CB,16,Celta Vigo,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Hugo Sotelo,CM,4,Celta Vigo,15.59375,Verde,53.8,Sí,2.49,33.76,53.8,9.95
+Damián Rodríguez,CM,25,Celta Vigo,-1.125,Naranja,76.41,No,15.67,76.41,4.46,3.45
+Fran Beltrán,CM,8,Celta Vigo,-2.375,Naranja,72.83,No,20.09,72.83,3.96,3.12
+Sergio Carreira,RM,5,Celta Vigo,-0.875,Naranja,76.92,No,15.01,76.92,4.56,3.52
+Marcos Alonso,CB,20,Celta Vigo,16.875,Verde,61.2,Sí,2.68,21.29,61.2,14.84
+Carl Starfelt,CB,2,Celta Vigo,1.5,Naranja,79.77,Sí,10.64,79.77,5.5,4.09
+Javi Rodríguez,CB,32,Celta Vigo,-5.0,Rojo,47.94,No,47.94,47.94,2.28,1.84
+Vicente Guaita,GK,13,Celta Vigo,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Randy Nteka,FW,11,Rayo Vallecano,-3.125,Naranja,69.37,No,24.13,69.37,3.63,2.88
+Abdul Mumin,CB,16,Rayo Vallecano,-1.0,Naranja,76.67,No,15.33,76.67,4.51,3.49
+Ruben Vargas,LW,5,Sevilla,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Suso,AM,10,Sevilla,-6.625,Rojo,68.43,No,68.43,26.07,3.02,2.48
+Manu Bueno,DM,28,Sevilla,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Etienne Eto'o,FW,28,Rayo Vallecano,-6.25,Rojo,65.53,No,65.53,29.12,2.95,2.4
+Jorge de Frutos,RW,19,Rayo Vallecano,6.375,Naranja,79.8,Sí,6.45,79.8,8.29,5.46
+Arkaitz Mariezkurrena,CM,40,Real Sociedad,-3.125,Naranja,69.37,No,24.13,69.37,3.63,2.88
+Aihen Muñoz,LB,3,Real Sociedad,-4.75,Naranja,52.99,No,42.39,52.99,2.55,2.06
+Aritz Elustondo,CB,6,Real Sociedad,-1.5,Naranja,75.54,No,16.79,75.54,4.32,3.36
+Álex Remiro,GK,1,Real Sociedad,1.875,Naranja,80.0,Sí,10.16,80.0,5.66,4.18
+Ante Budimir,FW,17,Osasuna,16.59375,Verde,60.36,Sí,2.67,23.27,60.36,13.7
+Bryan Zaragoza,LW,19,Osasuna,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Rubén García,RW,14,Osasuna,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Raúl,FW,9,Osasuna,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Pablo Ibáñez,LM,8,Osasuna,-3.5,Naranja,67.02,No,26.81,67.02,3.44,2.74
+Aimar Oroz,DM,10,Osasuna,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Lucas Torró,CM,6,Osasuna,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Jon Moncayola,RM,7,Osasuna,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+José Arnaiz,AM,20,Osasuna,-3.625,Naranja,66.11,No,27.84,66.11,3.37,2.68
+Juan Cruz Armada,LB,3,Osasuna,-5.125,Rojo,50.65,No,50.65,45.02,2.4,1.94
+Abel,LB,23,Osasuna,16.15625,Verde,58.3,Sí,2.63,27.04,58.3,12.04
+Catena,CB,24,Osasuna,16.28125,Verde,58.99,Sí,2.65,25.86,58.99,12.5
+Enzo Boyomo,CB,22,Osasuna,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Jesús Areso,RB,12,Osasuna,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Sergio Herrera,GK,1,Osasuna,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Allan Nyom,RW,12,Getafe,-4.625,Naranja,55.1,No,40.07,55.1,2.67,2.15
+Juan Berrocal,CB,4,Getafe,-0.125,Naranja,78.15,No,13.3,78.15,4.85,3.7
+Iglesias,RB,21,Getafe,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Peio Canales,AM,28,Athletic Club,-4.375,Naranja,58.69,No,36.12,58.69,2.88,2.31
+Adama Boiro,LB,32,Athletic Club,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Iñigo Lekue,LB,15,Athletic Club,-2.75,Naranja,71.27,No,21.93,71.27,3.8,3.0
+Aitor Paredes,CB,4,Athletic Club,1.625,Naranja,79.85,Sí,10.47,79.85,5.55,4.12
+Unai Núñez,CB,14,Athletic Club,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+Copete,CB,6,Mallorca,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Ilaix Moriba,CM,6,Celta Vigo,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Diego,FW,19,Leganés,-3.75,Naranja,65.13,No,28.94,65.13,3.3,2.63
+Miguel,FW,9,Leganés,-4.25,Naranja,60.23,No,34.41,60.23,2.97,2.39
+Óscar Rodríguez Arnaiz,LM,7,Leganés,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Seydouba Cissé,CM,8,Leganés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Dani Raba,AM,10,Leganés,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Yvan Neyou,CM,17,Leganés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Juan Cruz,RM,11,Leganés,17.5,Verde,61.96,Sí,2.64,17.7,61.96,17.7
+Javi Hernández,LB,20,Leganés,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Renato Tapia,CB,5,Leganés,16.5,Verde,60.0,Sí,2.67,24.0,60.0,13.33
+Julián Chicco,CM,24,Leganés,-5.75,Rojo,60.43,No,60.43,34.53,2.78,2.26
+Matija Nastasić,CB,22,Leganés,-1.125,Naranja,76.41,No,15.67,76.41,4.46,3.45
+Jorge Sáenz,CB,3,Leganés,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Sergi,CB,6,Leganés,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Duk,AM,18,Leganés,-6.125,Rojo,64.41,No,64.41,30.31,2.91,2.37
+Valentin Rosier,RB,12,Leganés,17.09375,Verde,61.63,Sí,2.67,19.92,61.63,15.78
+Marko Dmitrović,GK,13,Leganés,0.625,Naranja,79.05,Sí,11.93,79.05,5.14,3.88
+Yaser Asprilla,AM,10,Girona,-5.125,Rojo,50.65,No,50.65,45.02,2.4,1.94
+Oriol Romeu,CM,14,Girona,-0.625,Naranja,77.37,No,14.39,77.37,4.65,3.58
+David López,CB,5,Girona,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Williot Swedberg,AM,19,Celta Vigo,-4.125,Naranja,61.62,No,32.86,61.62,3.06,2.45
+Akor Adams,FW,15,Sevilla,-6.875,Rojo,70.06,No,70.06,24.37,3.06,2.51
+Arda Güler,RM,15,Real Madrid,-1.5,Naranja,75.54,No,16.79,75.54,4.32,3.36
+Antonio Rüdiger,CB,22,Real Madrid,16.53125,Verde,60.12,Sí,2.67,23.75,60.12,13.45
+Thibaut Courtois,GK,1,Real Madrid,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Rafa Mir,FW,11,Valencia,-4.875,Naranja,50.62,No,45.0,50.62,2.42,1.96
+Cucho,FW,19,Real Betis,-1.5,Naranja,75.54,No,16.79,75.54,4.32,3.36
+Cédric Bakambu,FW,11,Real Betis,-5.625,Rojo,58.85,No,58.85,36.22,2.72,2.21
+Jesus Rodríguez,LW,36,Real Betis,0.0,Naranja,78.32,Sí,13.05,78.32,4.9,3.73
+Abde Ezzalzouli,LW,10,Real Betis,-2.375,Naranja,72.83,No,20.09,72.83,3.96,3.12
+Antony,RW,7,Real Betis,16.625,Verde,60.47,Sí,2.67,23.04,60.47,13.82
+Isco,AM,22,Real Betis,17.40625,Verde,61.94,Sí,2.65,18.18,61.94,17.23
+Johnny Cardoso,DM,4,Real Betis,17.625,Verde,61.94,Sí,2.62,17.09,61.94,18.35
+Mateo Flores,DM,46,Real Betis,-3.5,Naranja,67.02,No,26.81,67.02,3.44,2.74
+Pablo Fornals,DM,18,Real Betis,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Sergi Altimira,DM,16,Real Betis,-0.875,Naranja,76.92,No,15.01,76.92,4.56,3.52
+Ricardo Rodríguez,LB,12,Real Betis,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Natan,CB,6,Real Betis,12.625,Naranja,68.06,Sí,3.65,68.06,20.16,8.13
+Diego Llorente,CB,3,Real Betis,16.25,Verde,58.83,Sí,2.64,26.15,58.83,12.38
+Youssouf Sabaly,RB,23,Real Betis,16.34375,Verde,59.31,Sí,2.65,25.3,59.31,12.74
+Adrián,GK,13,Real Betis,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Adnan Januzaj,CM,24,Las Palmas,-6.625,Rojo,68.43,No,68.43,26.07,3.02,2.48
+Álex Suárez,CB,4,Las Palmas,0.75,Naranja,79.17,Sí,11.73,79.17,5.19,3.91
+Marc Cardona,CB,9,Las Palmas,-4.75,Naranja,52.99,No,42.39,52.99,2.55,2.06
+Marvin,RB,2,Las Palmas,-3.375,Naranja,67.86,No,25.85,67.86,3.5,2.78
+Moi Gómez,AM,16,Osasuna,-6.125,Rojo,64.41,No,64.41,30.31,2.91,2.37
+Kike Barja,LW,11,Osasuna,-5.0,Rojo,47.94,No,47.94,47.94,2.28,1.84
+Iker Muñoz,DM,18,Osasuna,-4.75,Naranja,52.99,No,42.39,52.99,2.55,2.06
+Rubén Peña,RB,15,Osasuna,-5.25,Rojo,53.05,No,53.05,42.44,2.5,2.02
+Darko Brašanac,LM,14,Leganés,-3.25,Naranja,68.64,No,24.96,68.64,3.57,2.83
+Carles Pérez,RM,17,Getafe,-8.875,Rojo,78.2,No,78.2,16.04,3.14,2.62
+Robert Lewandowski,FW,9,Barcelona,17.5,Verde,61.96,Sí,2.64,17.7,61.96,17.7
+Raphinha,LM,11,Barcelona,16.125,Verde,58.11,Sí,2.63,27.35,58.11,11.92
+Ferrán Torres,LM,7,Barcelona,-1.875,Naranja,74.51,No,18.06,74.51,4.17,3.26
+Pedri,CM,8,Barcelona,17.375,Verde,61.92,Sí,2.65,18.35,61.92,17.08
+Frenkie de Jong,CM,21,Barcelona,16.65625,Verde,60.58,Sí,2.67,22.81,60.58,13.95
+Dani Olmo,CM,20,Barcelona,17.0,Verde,61.47,Sí,2.67,20.49,61.47,15.37
+Fermin López,CM,16,Barcelona,-2.5,Naranja,72.34,No,20.67,72.34,3.91,3.08
+Lamine Yamal,RW,19,Barcelona,21.875,Azul,66.2,Sí,2.37,8.41,23.02,66.2
+Marc Casado,DM,17,Barcelona,18.0,Verde,61.54,Sí,2.56,15.38,61.54,20.51
+Gerard Martín,LB,35,Barcelona,17.625,Verde,61.94,Sí,2.62,17.09,61.94,18.35
+Pau Cubarsí,CB,2,Barcelona,16.65625,Verde,60.58,Sí,2.67,22.81,60.58,13.95
+Eric García,CB,24,Barcelona,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Ronald Araújo,CB,4,Barcelona,17.75,Verde,61.86,Sí,2.6,16.5,61.86,19.03
+Héctor Fort,RB,32,Barcelona,-1.875,Naranja,74.51,No,18.06,74.51,4.17,3.26
+Jules Koundé,RB,23,Barcelona,17.375,Verde,61.92,Sí,2.65,18.35,61.92,17.08
+Wojciech Szczęsny,GK,25,Barcelona,0.625,Naranja,79.05,Sí,11.93,79.05,5.14,3.88
+Jon Martin,CB,31,Real Sociedad,-0.75,Naranja,77.15,No,14.7,77.15,4.61,3.55
+Aitor Ruibal,RB,24,Real Betis,-4.375,Naranja,58.69,No,36.12,58.69,2.88,2.31
+Ezequiel Ávila,LW,9,Real Betis,-5.375,Rojo,55.19,No,55.19,40.14,2.58,2.09
+Marc Bartra,CB,5,Real Betis,2.75,Naranja,80.35,Sí,9.18,80.35,6.06,4.4
+Endrick,FW,16,Real Madrid,-5.125,Rojo,50.65,No,50.65,45.02,2.4,1.94
+Ferland Mendy,LB,23,Real Madrid,16.15625,Verde,58.3,Sí,2.63,27.04,58.3,12.04
+Rodrigo Riquelme,FW,17,Atlético Madrid,-4.875,Naranja,50.62,No,45.0,50.62,2.42,1.96
+Reinildo Mandava,LB,23,Atlético Madrid,-3.375,Naranja,67.86,No,25.85,67.86,3.5,2.78
+Gavi,DM,6,Barcelona,-0.5,Naranja,77.58,No,14.11,77.58,4.7,3.61
+Alejandro Balde,LB,3,Barcelona,16.46875,Verde,59.87,Sí,2.66,24.25,59.87,13.21
+Iñigo Martínez,CB,5,Barcelona,16.375,Verde,59.45,Sí,2.66,25.03,59.45,12.86
+Munir El Haddadi,LM,23,Leganés,-1.625,Naranja,75.22,No,17.19,75.22,4.27,3.32
+William Carvalho,DM,14,Real Betis,1.75,Naranja,79.93,Sí,10.31,79.93,5.61,4.15
+Romain Perraud,LB,15,Real Betis,-2.375,Naranja,72.83,No,20.09,72.83,3.96,3.12
+Manuel Fuster,CM,14,Las Palmas,-4.0,Naranja,62.89,No,31.45,62.89,3.14,2.52
+Carlos Benavídez,CM,23,Alavés,-5.5,Rojo,57.11,No,57.11,38.08,2.66,2.16
+Jon Guridi,RM,18,Alavés,-8.0,Rojo,75.41,No,75.41,18.85,3.14,2.6
